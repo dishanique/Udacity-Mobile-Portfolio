@@ -1,5 +1,19 @@
 ## Website Performance Optimization portfolio project
 
+## index.html
+	-Removed web fonts to increase speed
+	-Optimized picture sizes (decreased) to increase speed as well
+	-Page score is 100/100 for Desktop
+	-Page score is /100 for Mobile. 
+
+## views/js/main.js
+	-Removed variable from loop to outside 
+	-Reduced number of pizzas from 200 to 40 to only fit size of screen needed for sliding pizzas when page load
+
+-----------------------------------------------------------------------------------------------------------------------
+
+## Rubric: Website Performance Optimization portfolio project
+
 Your challenge, if you wish to accept it (and we sure hope you will), is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques you've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
 
 To get started, check out the repository and inspect the code.
