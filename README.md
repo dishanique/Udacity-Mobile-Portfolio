@@ -3,8 +3,8 @@
 ## index.html
 	-Removed web fonts to increase speed
 	-Optimized picture sizes (decreased) to increase speed as well
-	-Page score is 100/100 for Desktop
-	-Page score is /100 for Mobile. 
+	-Page score is 97/100 for Desktop
+	-Page score is 95/100 for Mobile. 
 
 ## views/js/main.js
 	-Removed variable from loop to outside 
